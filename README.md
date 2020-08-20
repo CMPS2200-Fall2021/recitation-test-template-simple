@@ -3,7 +3,7 @@
 This is a test lab to make sure we can get the labs to work using github classroom and repl.it.
 
 1. Accept the github classroom assignment invitation sent via Canvas.
-  - be sure to login to github with the ID 
+  - be sure to login to github with the ID you gave in the survey
 2. Point your browser to your github repository that was created for this assignment (e.g., for **me** this is<https://github.com/tulane-cmps2200/test-lab-aronwc>)
 3. Launch the repl.it instance for this repository (you can click on the "Work in Repl.it" button in the README of your repository).
   - You may have to give repl.it permission to use your github account. This is how you are able to push to github via repl.it
