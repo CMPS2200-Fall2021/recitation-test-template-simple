@@ -4,7 +4,7 @@ This is a test lab to make sure we can get the labs to work using github classro
 
 1. Accept the github classroom assignment invitation sent via Canvas.
   - be sure to login to github with the ID you gave in the survey
-2. Point your browser to your github repository that was created for this assignment (e.g., for **me** this is<https://github.com/tulane-cmps2200/test-lab-amaus>)
+2. Point your browser to your github repository that was created for this assignment (e.g., for **me** this is <https://github.com/tulane-cmps2200/test-lab-amaus>)
   - You will see the starter repository for this "lab". Each lab will have a README with the lab instructions/questions to answer and the starter source code for the lab.
 3. [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) the lab to your computer.
 4. Implement the `sum_of_squares` function in `main.py`.
