@@ -11,4 +11,10 @@ This is a test lab to make sure we can get the labs to work using github classro
   - Confirm that the provided test function `test_one` passes.
 5. Add a new test function called `test_two` that gives some other test case and confirm it passes.
 6. [Add, commit, and push](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-using-the-command-line/adding-a-file-to-a-repository-using-the-command-line) your completed lab back up to GitHub. 
-  - You will need to `git add` all files that you have modified. For this test lab, that should only be `main.py`, but for regular labs, they will also include the README (and possibly other files as well).
+  - You will need to issue `git add` all files that you have modified. For this test lab, that should only be `main.py`, but for regular labs, they will also include the README (and possibly other files as well).
+  - For example, on the command line, in the same directory as your cloned lab:
+```
+$ git add main.py
+$ git commit -m "Implements Sum of Squares"
+$ git push origin master
+```
