@@ -16,5 +16,5 @@ This is a test lab to make sure we can get the labs to work using github classro
 ```
 $ git add main.py
 $ git commit -m "Implement Sum of Squares"
-$ git push origin master
+$ git push origin main
 ```
