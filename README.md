@@ -15,6 +15,6 @@ This is a test lab to make sure we can get the labs to work using github classro
   - For example, on the command line, in the same directory as your cloned lab:
 ```
 $ git add main.py
-$ git commit -m "Implements Sum of Squares"
+$ git commit -m "Implement Sum of Squares"
 $ git push origin master
 ```
